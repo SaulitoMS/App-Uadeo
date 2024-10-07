@@ -1,0 +1,11 @@
+C:\Users\yabbe\source\repos\DSSEscoringBueno\bin\Debug\DSSEscoringBueno.exe.config
+C:\Users\yabbe\source\repos\DSSEscoringBueno\bin\Debug\DSSEscoringBueno.exe
+C:\Users\yabbe\source\repos\DSSEscoringBueno\bin\Debug\DSSEscoringBueno.pdb
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.csproj.AssemblyReference.cache
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.Catalogos.MenuPrincipal.resources
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.Catalogos.Proyectos.resources
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.Properties.Resources.resources
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.csproj.GenerateResource.cache
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.csproj.CoreCompileInputs.cache
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.exe
+C:\Users\yabbe\source\repos\DSSEscoringBueno\obj\Debug\DSSEscoringBueno.pdb
