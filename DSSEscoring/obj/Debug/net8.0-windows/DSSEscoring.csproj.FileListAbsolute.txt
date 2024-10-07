@@ -1,7 +1,0 @@
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.Catalogos.MenuPrincipal.resources
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.Catalogos.Proyectos.resources
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.csproj.GenerateResource.cache
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.AssemblyInfoInputs.cache
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.AssemblyInfo.cs
-C:\Users\yabbe\source\repos\DSSEscoring\obj\Debug\net8.0-windows\DSSEscoring.csproj.CoreCompileInputs.cache
