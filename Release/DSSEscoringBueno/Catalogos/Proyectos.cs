@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,7 +29,7 @@ namespace DSSEscoringBueno.Catalogos
         private void btnNuevo_Click(object sender, EventArgs e)
         {
         
-            // Conectar a la base de datos y ejecutar la consulta
+            // Conectar a la base de datos y ejecutar la consulta --- Eliminar todo se usara refernecia del backen 
             using (SqlConnection connection = new SqlConnection(conexion))
             {
                 try
@@ -76,7 +76,7 @@ namespace DSSEscoringBueno.Catalogos
 
         }
 
-        //incompleto
+        //incompleto --- Eliminar se tomara como referencia el backen
         private void btnGuardar_Click(object sender, EventArgs e)
         {
             using (SqlConnection cn = new SqlConnection(conexion))
